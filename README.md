@@ -1,0 +1,2 @@
+# eulerProjects
+projectEuler code
